@@ -27,6 +27,10 @@ function getResults(query) {
     .then((weather) => weather.json())
     .then((data) => {
       displayHourlyForecast(data.list);
+    })
+    .catch((error) => {
+      console.error("Error fetching current weather data:", error);
+      alert("Error fetching current weather data. Please try again.");
     });
 }
 
