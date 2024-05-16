@@ -13,7 +13,7 @@ Weather-Hours is a simple web application that provides current weather informat
 To get started with Weather-Hours, follow these steps:
 
 1. **Experience the Site:**
-   Visit the [Weather-Hours](#) website to experience the application directly.
+   Visit the [Weather-Hours](https://geetika14916.github.io/Weather-Hours/) website to experience the application directly.
 
 ## Technologies Used
 
@@ -25,7 +25,3 @@ To get started with Weather-Hours, follow these steps:
 ## Contributing
 
 Contributions to Weather-Hours are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
